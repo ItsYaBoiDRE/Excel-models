@@ -18,7 +18,6 @@ The educational projects are designed to help me learn and practice different Ex
 
 1. **Excel Projects**: These are educational projects that I learnt while undertaking an educational course on COURSERA.
 2. **Pivot sales excel sheet**: An excel project underwent under educational guidance of one of my  esteemed professors, Dr. Lokananda Irala Reddy, Assistant Professor, School of management Studies, UoH.
-3. ...
 
 ## Personal Projects
 
